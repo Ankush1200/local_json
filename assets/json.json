@@ -1,0 +1,8 @@
+{
+    "name":"Ankush Prajapati", 
+    "age":25,
+    "ismarried":false,
+    "hobbies":[
+        "Reading","serfing web"
+    ]    
+}
